@@ -15,7 +15,7 @@ class Bluenoise():
 
 	def __init__(self,depth,generate=False,sigma=1.9) -> None:
 		if depth > 3:
-			print('Bluenoise init error: depth is too high! Max depth = 4')
+			print('Bluenoise init error: depth is too high! Max depth = 3')
 			exit(1)
 		side = 2**(depth+5) # d0 = 32, d1 = 64, d2 = 128, d3 = 256
 		self.width = side
