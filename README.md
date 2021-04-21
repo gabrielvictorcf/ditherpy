@@ -57,4 +57,4 @@ bluenoise | ordered | organic look with no clear structures
 simple | error-diffusion | simplest of it's type, lots of artifacts because of sequentiality
 floyd-steinberg | error-diffusion | very fine diffusion with much less artifacts
 atkinson | error-diffusion | fine diffusion with strong contrast on very dark/light areas
-jjn | error-diffusion | rigorous diffusion with much less artifacts
+jjn | error-diffusion | rigorous diffusion with minimal artifacts
